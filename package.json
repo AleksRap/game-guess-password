@@ -1,0 +1,22 @@
+{
+  "name": "game-guess-password",
+  "version": "1.0.0",
+  "description": "light js game",
+  "main": "index.js",
+  "scripts": {
+    "startGame": "node bulls-and-cows.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksRap/gameGuessPassword.git"
+  },
+  "author": "Sedov Aleksei <aleks.sedov@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksRap/gameGuessPassword/issues"
+  },
+  "homepage": "https://github.com/AleksRap/gameGuessPassword#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
